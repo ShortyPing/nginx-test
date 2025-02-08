@@ -20,3 +20,4 @@ spec:
                 name: nginx-service
                 port:
                   number: 80
+      host: nginx-test.lambda.vanadium.dev
